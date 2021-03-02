@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/screeps.svg)](https://badge.fury.io/js/screeps)
+[![npm version](https://badge.fury.io/js/screeps.svg)](https://badge.fury.io/js/screeps) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/screeps/screeps)
 
 [![logo](logo.png)](https://screeps.com)
 
